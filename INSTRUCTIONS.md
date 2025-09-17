@@ -3,7 +3,7 @@
 ## Overview
 For this assignment, you will analyze the MovieLens dataset using pandas in Jupyter notebooks. You will practice writing modular analysis functions, testing your code with controlled datasets and assertions, and documenting your reasoning. This assignment is designed to help you develop good practices for reproducible, testable data analysis and effective use of AI tools like Copilot.
 
----
+--- 
 
 ## Requirements
 
