@@ -1,0 +1,14 @@
+{
+  "name": "UMSI 211 Course Codespace",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-toolsai.jupyter",
+        "GitHub.copilot",
+        "mechatroner.rainbow-csv"
+      ]
+    }
+  },
+  "postCreateCommand": "pip install -r requirements.txt"
+}
